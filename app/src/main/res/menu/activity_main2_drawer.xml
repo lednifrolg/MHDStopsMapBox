@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_bus"
+            android:icon="@drawable/ic_directions_bus_black_24dp"
+            android:title="@string/bus_stop" />
+        <item
+            android:id="@+id/nav_tram"
+            android:icon="@drawable/ic_directions_railway_black_24dp"
+            android:title="@string/tram_stop" />
+        <item
+            android:id="@+id/nav_trolleybus"
+            android:icon="@drawable/ic_directions_subway_black_24dp"
+            android:title="@string/trolleybus_stop" />
+        <item
+            android:id="@+id/nav_route"
+            android:icon="@drawable/ic_directions_black_24dp"
+            android:title="@string/route" />
+        <item
+            android:id="@+id/close_stop"
+            android:icon="@drawable/ic_location_searching_black_24dp"
+            android:title="@string/close_stop" />
+    </group>
+
+
+</menu>

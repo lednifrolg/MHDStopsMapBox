@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">MapBoxApp</string>
+    <string name="access_token">pk.eyJ1IjoiZmlsaXBkYWxvcmVuem8iLCJhIjoiY2lneG5oajluMDBjbXY1bTdkMDF4eTc2cCJ9.mpseO5UURk70cnQZsf3fyw</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="bus_stop">Bus Stop</string>
+    <string name="tram_stop">Tram Stop</string>
+    <string name="trolleybus_stop">Trolleybus Stop</string>
+    <string name="close_stop">Closest Stop</string>
+
+    <string name="route">Find Route</string>
+    <string name="route_button">Find Route</string>
+
+
+
+</resources>
